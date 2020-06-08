@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+.card {
+       width: 334px;
+       height: 682px;
+       font-family: "Times New Roman", times, serif;
+       border: groove 2px rgba(0, 0, 0, 0.1);
+       box-shadow: 8px 8px 4px 0px rgba(0, 0, 0, 0.2);
+       border-radius: 5px; /*5px rounded corners*/ }
+
+.information {
+       font-size: 0.9em;
+       width: 264px;
+       border: groove 2px rgba(0, 0, 0, 0.1);
+       border-radius: 5px;
+       padding-top: 7px;
+       padding-bottom: 8px;
+       padding-left: 17px;
+       padding-right: 17px;
+       margin: 17px;
+       display: block;
+       margin-left: auto;
+       margin-right: auto; }
+
+p.animal_fact { font-style: italic; }
+
+ul { list-style-type: none;
+     padding: 0; }
+
+li span { font-weight: bold;
+          font-size: 1.1em; }
+
+h3 { font-weight: bold;
+     font-size: 1.3em;
+     margin: 17px; }
+
+img { display: block;
+      margin-left: auto;
+      margin-right: auto; }
