@@ -1,4 +1,4 @@
-# Animal_Trading_Cards
+# Animal Trading Cards Project
 
 This is a card done by using HTML and CSS and that resembles a design prototype. The theme is: Favorite Animal. 
 
